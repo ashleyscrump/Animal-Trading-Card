@@ -1,0 +1,67 @@
+.nameborder{
+    border: 5px dotted rgb(225, 223, 223);
+    width: 280px;
+    padding-left: 10px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    text-align: left;
+    font-size: larger;
+    color:rgb(255, 94, 0);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  
+
+.butter img {
+    border: hidden;
+    padding: 2px;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 1px;
+}
+
+.fact{
+    font-style: italic;
+    border: 5px solid rgb(223, 223, 230);
+    padding: 2px;
+    margin: 2px;
+    width: 280px;
+}
+
+.boldlist{
+    font-size: 16px;
+    font-variant: small-caps; 
+    font-weight: bold;   
+    color:rgb(255, 94, 0);
+}
+
+ul{
+    list-style: none;
+    border: 5px solid rgb(223, 223, 230);
+    padding: 2px;
+    margin: 4px;
+    width: 280px;
+    text-align: cent ;
+}
+
+.description{
+    border: 5px solid rgb(223, 223, 230);
+    padding: 2px;
+    margin: 4px;
+    width: 280px;
+}     
+
+.textborder{
+    border: 2px solid rgb(225, 223, 223);
+    padding: 0px;
+    width: 300px; 
+    height: 290px;
+}
+       
+.container{
+    border: 2px solid rgb(230, 230, 233);
+    padding: 10px;
+    margin: 0px;
+    width: 300px; 
+    height: 680px; 
+    box-shadow: 5px 5px 5px  #100f0f;
+    background-color:rgb(255, 255, 255)
+} 
