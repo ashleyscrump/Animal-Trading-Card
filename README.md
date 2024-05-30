@@ -1,1 +1,1 @@
-My assignment was to replicate the styling observed in an animal trading card provided in the course. I recreated the trading card with my favorite animal using both HTML and CSS. I put all CSS in a seperate file and inserted it into my HTML. 
+My task for the assignment was to imitate the styling found on an animal trading card that was supplied for the course. Using HTML and CSS, I rebuilt the trade card featuring my favorite animal. I separated all of the CSS into an other file and added it to my HTML.
