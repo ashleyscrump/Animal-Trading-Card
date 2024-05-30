@@ -1,0 +1,1 @@
+My assignment was to replicate the styling observed in an animal trading card provided in the course. I recreated the trading card with my favorite animal using both HTML and CSS. I put all CSS in a seperate file and inserted it into my HTML. 
